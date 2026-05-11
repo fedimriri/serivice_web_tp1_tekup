@@ -32,6 +32,3 @@ build/
 ### VS Code ###
 .vscode/
 .mvn/**
-.fake
-SOAP_Provider/.mvn/**
-SOAP_Client/.mvn/**
