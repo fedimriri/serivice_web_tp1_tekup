@@ -7,6 +7,6 @@ public class ServerWS {
     public static void start() {
         String url = "http://127.0.0.1:8090/";
         Endpoint.publish(url, new ProduitWebService());
-        System.out.println( url + "deployed" );
+        System.out.println( url + " deployed" );
     }
 }
